@@ -29,7 +29,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitpanjikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-                        
+  
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 <!-- for see number of people view your profile -->
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitxo&label=Profile%20views&color=0e75b6&style=flat" alt="mohitxo" /> </p> -->
