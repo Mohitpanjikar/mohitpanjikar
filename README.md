@@ -30,7 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitpanjikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   
-  <h4>Random Dev Quote </h4>
+Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <!-- for see number of people view your profile -->
