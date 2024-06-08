@@ -18,7 +18,10 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 
 
 
-## 🛠 Skills
+## 🛠 Skills 
+- Docker
+- Redis
+- Apache Kafka
 - Javascript, HTML, CSS
 - NodeJs
 - Bootstrap
