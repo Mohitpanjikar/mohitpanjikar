@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 
 
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohitpanjikar&theme=monokai)](https://git.io/streak-stats)
-
-
-
-
 ## 🛠 Skills 
 - Docker
 - Redis
